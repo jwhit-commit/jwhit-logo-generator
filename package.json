@@ -2,7 +2,7 @@
   "dependencies": {
     "color-to-hex": "^1.0.0",
     "inquirer": "^8.2.6",
-    "jest": "^29.7.0"
+    "jest": "^26.5.2"
   },
   "name": "jwhit-logo-generator",
   "description": "",
