@@ -14,17 +14,3 @@ console.log(triangle.render());
 console.log(square);
 console.log(square.render());
 
-// class Thing {
-//     validColor;
-
-//     constructor(color) {
-//         this.color = color;
-//     }
-
-//     validateColor() {this.validColor = colors.validateColor(this.color)}
-// }
-
-// thing = new Thing('red');
-// thing.validateColor();
-
-// console.log(thing)
