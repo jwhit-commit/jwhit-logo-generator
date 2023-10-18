@@ -3,7 +3,7 @@
 
 
 ## Description
-Produce 
+Produce custom logos via the command line. Answer a short questionaire to generate SVG fils with specified shape, text and colors.
 
 [jwhit-logo-generator-preview.webm.mov](https://github.com/jwhit-commit/jwhit-logo-generator/blob/main/assets/jwhit-logo-generator-preview.webm)
 [Watch a video walkthrough](https://github.com/jwhit-commit/jwhit-logo-generator/blob/main/assets/jwhit-logo-generator-preview.webm)
