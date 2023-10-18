@@ -6,6 +6,7 @@
 Produce 
 
 [jwhit-logo-generator-preview.webm.mov](https://github.com/jwhit-commit/jwhit-logo-generator/blob/main/assets/jwhit-logo-generator-preview.webm)
+[Watch a video walkthrough](https://github.com/jwhit-commit/jwhit-logo-generator/blob/main/assets/jwhit-logo-generator-preview.webm)
 
 
 ## Table of Contents
